@@ -1,9 +1,9 @@
 # yumyum-meals
 "🍽️ Yum Yum Meals – AI-powered food subscription service delivering healthy, personalized meals. Built with HTML, CSS, and JavaScript, with a future Node.js backend. 🚀 #AI #FoodDelivery #MealPlanner"
 # 🍽️ Yum Yum Foods - AI-Powered Food Subscription
- ![Design preview for the YumYum-meals-platform ](Design1.jpeg)
- ![Design preview for the YumYum-meals-platform ](Design1.jpeg)
- ![Design preview for the YumYum-meals-platform ](Design1.jpeg)
+ ![Design preview for the YumYum-meals-platform ](img/design.jpeg)
+ ![Design preview for the YumYum-meals-platform ](img/design1.jpeg)
+ ![Design preview for the YumYum-meals-platform ](img/design2.jpeg)
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
