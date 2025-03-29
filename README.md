@@ -42,7 +42,7 @@
 ## 🏗️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/yumyumfoods.git
+   git clone https://github.com/Kishan-shr/yumyum-meals
    ```
 2. Navigate to the project folder:
    ```sh
